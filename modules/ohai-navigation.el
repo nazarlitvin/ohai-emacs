@@ -141,6 +141,9 @@
         ("C-M-%" . anzu-query-replace-regexp))
   :diminish anzu-mode)
 
+(use-package eyebrowse
+  :config
+  (eyebrowse-mode t))
 
 
 (provide 'ohai-navigation)
