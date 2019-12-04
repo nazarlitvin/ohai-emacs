@@ -56,6 +56,11 @@
 ;; at the first error.
 (setq compilation-scroll-output 'first-error)
 
+;; Disable annoying audio notifications
+;; By default Emacs has some pretty annoying audio notifications
+;; for certain events (e.g. trying to move past the end of a buffer).
+(setq ring-bell-function 'ignore)
+
 ;; So I can use emacsclient for editing
 (server-start)
 
