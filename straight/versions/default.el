@@ -26,7 +26,7 @@
  ("emacs-flycheck-flow" . "9e8e52cfc98af6a23fd906f9cb5d5d470d8cf82d")
  ("emacs-git-gutter" . "00c05264af046b5ce248e5b0bc42f117d9c27a09")
  ("emacs-git-gutter-fringe" . "16226caab44174301f1659f7bf8cc67a76153445")
- ("emacs-libvterm" . "57134b682dc58308d9edf353decc952f49814594")
+ ("emacs-libvterm" . "e19da61668783239e47b1a7390fca10f38ceffa9")
  ("emacs-material-theme" . "b66838d220ad380a16da1d8878936974b26f815d")
  ("emacs-refactor" . "43a739d462b777a8cb347b758f3bcaac6dc775fc")
  ("emacs-web" . "483188dac4bc6b409b985c9dae45f3324a425efd")
