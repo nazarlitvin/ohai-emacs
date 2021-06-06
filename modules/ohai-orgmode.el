@@ -93,6 +93,16 @@ Inserted by installing org-mode or when a release is made."
 (setq org-archive-location
       (concat "~/org/archive.org" "::* From %s"))
 
+;; add CANCELLED state
+(setq org-todo-keywords
+      '((sequence "TODO" "|" "DONE" "CANCELED")))
+
+(setq org-todo-keyword-faces
+      '(("CANCELED" . (
+                       :foreground "#ffffff"
+                       :background "#8c8c8c"
+                       :weight bold))))
+
 ;; add CLOSE: <time> when completing todo
 (setq org-log-done 'time)
 
