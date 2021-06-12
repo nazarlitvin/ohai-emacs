@@ -49,6 +49,7 @@
    (ohai-smart-mode-line "cleaner, lighter modeline (no Nyan Cat)" :optional)
    (ohai-ext-window-nav "alternative window navigation" :optional)
    (ohai-writing "focus on writing" :optional)
+   (ohai-productivity "productivity tools" :optional)
    (ohai-lsp "Language Server Protocol" :optional)
    (ohai-html "HTML, CSS and friends" :optional)
    (ohai-markdown "Markdown support" :optional)
