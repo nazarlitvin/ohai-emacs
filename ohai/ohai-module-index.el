@@ -66,6 +66,7 @@
    (ohai-elixir "Elixir language support" :optional)
    (ohai-haskell "Haskell language support" :optional)
    (ohai-prolog "Prolog language support" :optional)
+   (ohai-lua "Lua language support" :optional)
    (ohai-elm "Elm language support" :optional)
    (ohai-rust "Rust language support" :optional)))
 
